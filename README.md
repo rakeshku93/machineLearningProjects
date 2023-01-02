@@ -2,11 +2,11 @@
 
 This Repository contains Machine Learning Projects and Concepts:
 
-**1. Regression:**
+## **1. Regression:**
 
-**2. Classification:**
+## **2. Classification:**
 
-ROC curves are appropriate when the observations are `balanced` between each class, whereas precision-recall curves are appropriate for `imbalanced datasets`.
+`ROC curves` are appropriate when the observations are `balanced` between each class, whereas `precision-recall curves` are appropriate for `imbalanced datasets`.
 
 ROC Curve:
    * It is a plot between false positive rate (x-axis) & true positive rate (y-axis) for a number of different threshold values between 0.0 and 1.0. 
