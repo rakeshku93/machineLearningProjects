@@ -27,8 +27,8 @@ ROC Curve:
    <br/>
    **e.g: pip show pandas numpy scikit-learn**
 <br/>
-2.
-## References:
+
+## **5. References:**
 * [How to Use ROC Curves and Precision-Recall Curves for Classification in Python](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
 * [The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432)
 
